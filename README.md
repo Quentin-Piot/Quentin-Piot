@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 - [My website 🖥️](https://quentinpiot.com)
 - [My leetcode 🧑‍🔬](https://leetcode.com/qkpiot)
+- [My rust game WIP 🎮](https://rhythm-game.quentinpiot.com)
+
