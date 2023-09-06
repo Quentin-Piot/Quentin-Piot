@@ -1,28 +1,29 @@
-<!--
-**Quentin-Piot/Quentin-Piot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey there, I'm Quentin Piot!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I'm a passionate Full-stack Developer with a love for TypeScript and Rust. Let's build amazing software together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Global Statistics
 
+- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quentin-piot&show_icons=true&theme=dark&count_private=true&hide_rank=true)](https://github.com/quentin-piot)
+- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quentin-piot&show_icons=true&theme=dark&layout=compact&langs_count=6&exclude_repo=Quentin-Piot/portfoliot-nextjs)](https://github.com/quentin-piot)
 
+### 🔗 Links
 
-## Global statistics
+- 🌐 **My Website:** [quentinpiot.com](https://quentinpiot.com)
+- 🧑‍🔬 **LeetCode:** [leetcode.com/qkpiot](https://leetcode.com/qkpiot)
+- 🎮 **Rust Game (Work in Progress):** [rhythm-game.quentinpiot.com](https://rhythm-game.quentinpiot.com)
 
-[![Quention's GitHub stats](https://github-readme-stats.vercel.app/api?username=quentin-piot&show_icons=true&theme=dark)](https://www.quentinpiot.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentin-piot&show_icons=true&theme=dark&size_weight=0.2&count_weight=1&hide=HTML,css,scss&exclude_repo=Quentin-Piot/portfoliot-nextjs)](https://www.quentinpiot.com)
+### 💼 Experience
 
-## Links
+- 👨‍💻 I'm currently working as a Full-stack Developer at Partoo.
+- 🌐 Building web applications and services that solve real-world problems.
+- 🚀 Open-source enthusiast and contributor.
+- 📧 You can also contact me via [Email](mailto:quentin.piot@protonmail.com).
 
-- [My website 🖥️](https://quentinpiot.com)
-- [My leetcode 🧑‍🔬](https://leetcode.com/qkpiot)
-- [My rust game WIP 🎮](https://rhythm-game.quentinpiot.com)
+### 🚀 Projects
 
+Here are some of the projects I'm currently working on:
+
+- 🌐 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... Based on DDD [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world))
+
+Let's collaborate and build amazing things together! 🌟
