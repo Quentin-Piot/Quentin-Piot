@@ -4,8 +4,16 @@ Welcome to my GitHub profile. I'm a passionate Full-stack Developer with a love 
 
 ### 📊 Global Statistics
 
-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quentin-piot&show_icons=true&theme=dark&count_private=true&hide_rank=true)](https://github.com/quentin-piot)
-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quentin-piot&show_icons=true&theme=dark&layout=compact&langs_count=6&exclude_repo=Quentin-Piot/portfoliot-nextjs)](https://github.com/quentin-piot)
+<table style="border: 1px solid #000000; width: 100%;">
+  <tr style="border: 1px solid #000000;">
+    <td style="border: 1px solid #000000; width: 45%;">
+     [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quentin-piot&show_icons=true&theme=dark&count_private=true&hide_rank=true)](https://github.com/quentin-piot)
+    </td>
+    <td style="border: 1px solid #000000; width: 45%;">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quentin-piot&show_icons=true&theme=dark&layout=compact&langs_count=6&exclude_repo=Quentin-Piot/portfoliot-nextjs)](https://github.com/quentin-piot)    </td>
+  </tr>
+</table>
+
 
 ### 🔗 Links
 
