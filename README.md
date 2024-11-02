@@ -1,5 +1,14 @@
 ## 👋 Hey there, I'm Quentin Piot!
 
+
+### 🥷 Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nestjs,java,kotlin,spring,rust,postgresql,mongodb,aws,gcp,vercel,git,github,gitlab&perline=6" />
+  </a>
+</p>
+
 ### 📊 Global Statistics
 
 | GitHub Stats | Top Languages |
