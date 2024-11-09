@@ -4,17 +4,13 @@
 ### 🥷 Mastered skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,postgresql,mongodb,github&perline=6" />
-  </a>
 </p>
 
 ### 📚 Learning skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,kotlin,spring,rust,rabbitmq,redis,gcp,aws,docker,kubernetes,gitlab&perline=6" />
-  </a>
 </p>
 
 
