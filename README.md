@@ -27,5 +27,7 @@
 
 ### 🚀 Projects
 
-- 🌐 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... Based on DDD [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world))
+- 🦀 **Messaging microservices app:** Multilanguages and technolgies microservices app based on DDD and CQRS architecture with CI/CD [GitHub Repo](https://github.com/Quentin-Piot/messaging-microservices-grpc-ddd)
+ 
+- 🦀 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... Based on DDD [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world))
 
