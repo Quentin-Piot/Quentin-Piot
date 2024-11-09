@@ -23,11 +23,13 @@
 
 ### 🔗 Links
 
-- 🌐 **My Portfolio:** [quentinpiot.com](https://quentinpiot.com)
+- 🌐 **My Website:** [quentinpiot.com](https://quentinpiot.com)
+- 🗂️ **My Portfolio:** [Slides](https://docs.google.com/presentation/d/10c-vA0yhWPG4q_VT432VWWtALVcoaKK3KYEi2QvefxA/edit?usp=sharing)
+
 
 ### 🚀 Projects
 
-- 🦀 **Messaging microservices app:** Multilanguages and technolgies microservices app based on DDD and CQRS architecture with CI/CD [GitHub Repo](https://github.com/Quentin-Piot/messaging-microservices-grpc-ddd)
+- 💬 **Messaging microservices app:** Multilanguages and technolgies microservices app based on DDD and CQRS architecture with CI/CD : [GitHub Repo](https://github.com/Quentin-Piot/messaging-microservices-grpc-ddd)
  
-- 🦀 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... Based on DDD [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world))
+- 🦀 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... : [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world)
 
