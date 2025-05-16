@@ -30,4 +30,5 @@
 ### 🚀 Projects
 
 - 🦀 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... : [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world)
+- 🩺 **Bioprisme:** Personalized analysis of your biological test results using ML
 
