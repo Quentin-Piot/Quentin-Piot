@@ -31,4 +31,4 @@
 
 - 🦀 **Axum Real world template:** Modular template to create real world backend application in Rust using Axum,Tokio and more ... : [GitHub Repo](https://github.com/Quentin-Piot/axum-diesel-real-world)
 - 🩺 **[Bioprisme](https://bioprisme.com):** Personalized analysis of your biological test results using ML
-- 🩺 **[Eco Manager](https://eco-manager.quentinpiot.com):** TravelSpend like application but totally free and even working outside travel context [GitHub Repo](https://github.com/Quentin-Piot/eco-manager)
+- 📊 **[Eco Manager](https://eco-manager.quentinpiot.com):** TravelSpend like application but totally free and even working outside travel context [GitHub Repo](https://github.com/Quentin-Piot/eco-manager)
