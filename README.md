@@ -1,33 +1,30 @@
+```markdown
+# 👋 Hi, I'm Quentin Piot
 
+**Full-Stack Developer** passionate about software architecture and sustainable solutions 🌱
 
-
-          
-# 👋 Salut, je suis Quentin Piot
-
-**Développeur Full-Stack** passionné par l'architecture logicielle et les solutions durables 🌱
-
-> *"Je conçois des interfaces web et mobiles robustes, accessibles et maintenables, avec un souci constant de performance et de clarté technique."*
+> *"I design robust, accessible, and maintainable web and mobile interfaces, with a constant focus on performance and technical clarity."*
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-- 🎯 **Spécialiste** React, TypeScript & Architecture Système
+- 🎯 **Specialist** in React, TypeScript & System Architecture
 - ☁️ **AWS Certified Solutions Architect** (Associate)
-- 🤖 **Passionné d'IA** et d'intégration LLM
-- 🌍 **Basé à Paris**, disponible pour le travail à distance
-- 💼 **Freelance** depuis mai 2024
+- 🤖 **Passionate about AI** and LLM integration
+- 🌍 **Based in Paris**, available for remote work
+- 💼 **Freelance** since May 2024
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
-### 🥷 Technologies Maîtrisées
+### 🥷 Mastered Technologies
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,github,git,&perline=8" />
 </p>
 
-### 📚 En Apprentissage
+### 📚 Learning
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,rust,rabbitmq,redis,gcpb&perline=6" />
 </p>
@@ -36,78 +33,78 @@
 
 ## 🏆 Expertise
 
-- **🏗️ Architecture Système** : DDD, CQRS, Event Sourcing, Clean Architecture
+- **🏗️ System Architecture** : DDD, CQRS, Event Sourcing, Clean Architecture
 - **☁️ Cloud & DevOps** : AWS, Docker, Kubernetes, Terraform, CI/CD
-- **🤖 IA & Innovation** : Intégration LLM, OCR, Prompt Engineering
-- **📱 Développement Mobile** : React Native, Expo
+- **🤖 AI & Innovation** : LLM Integration, OCR, Prompt Engineering
+- **📱 Mobile Development** : React Native, Expo
 
 ---
 
-## 🚀 Projets Phares
+## 🚀 Featured Projects
 
 ### 🩺 [BioPrisme](https://bioprisme.com)
-**Analyse personnalisée de bilans biologiques avec IA**
-- 🔒 Hébergement HDS & chiffrement des données
-- 🧠 OCR + Python pour l'extraction de données
-- 📊 Rapports PDF pédagogiques personnalisés
+**Personalized analysis of biological reports with AI**
+- 🔒 HDS Hosting & data encryption
+- 🧠 OCR + Python for data extraction
+- 📊 Personalized educational PDF reports
 
 ### 🌿 [EcoManager](https://github.com/Quentin-Piot/eco-manager)
-**Gestion financière durable**
-- 📱 Application React Native avec Expo
-- 💰 Suivi des comptes, transactions et budgets
-- 🎨 Interface moderne avec TailwindCSS
+**Sustainable financial management**
+- 📱 React Native application with Expo
+- 💰 Account, transaction, and budget tracking
+- 🎨 Modern interface with TailwindCSS
 
 ### 🦀 [Axum Real-World Template](https://github.com/Quentin-Piot/axum-diesel-real-world)
-**Template Rust moderne pour backends scalables**
-- ⚡ Framework Axum + Diesel ORM
-- 🏗️ Architecture DDD modulaire
-- 🔄 Migrations automatiques & pool de connexions
+**Modern Rust template for scalable backends**
+- ⚡ Axum Framework + Diesel ORM
+- 🏗️ Modular DDD architecture
+- 🔄 Automatic migrations & connection pool
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-| GitHub Stats | Langages Favoris |
-|--------------|------------------|
+| GitHub Stats | Favorite Languages |
+|--------------|--------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quentin-piot&show_icons=true&theme=dark&count_private=true&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quentin-piot&show_icons=true&theme=dark&layout=compact&langs_count=6&exclude_repo=portfolio-nextjs&hide=html,css,scss) |
 
 </div>
 
 ---
 
-## 🌐 Liens
+## 🌐 Links
 
 - 🌍 **Portfolio** : [quentinpiot.com](https://quentinpiot.com)
-- 📄 **CV Détaillé** : [Google Slides](https://docs.google.com/presentation/d/10c-vA0yhWPG4q_VT432VWWtALVcoaKK3KYEi2QvefxA/edit?usp=sharing)
+- 📄 **Detailed Resume** : [Google Slides](https://docs.google.com/presentation/d/10c-vA0yhWPG4q_VT432VWWtALVcoaKK3KYEi2QvefxA/edit?usp=sharing)
 - 💼 **LinkedIn** : [Quentin Piot](https://linkedin.com/in/quentin-piot)
 - 📧 **Contact** : [hello@quentinpiot.com](mailto:hello@quentinpiot.com)
 
 ---
 
-## 💼 Expérience Récente
+## 💼 Recent Experience
 
-**🚀 Lead Développeur Freelance** chez MAGNETA S.A.S *(mai - nov 2024)*
-- Backend pour montres connectées
-- API B2B sécurisée avec GraphQL
-- Console d'administration React
+**🚀 Lead Freelance Developer** at MAGNETA S.A.S *(May - Nov 2024)*
+- Backend for connected watches
+- Secure B2B API with GraphQL
+- React administration console
 
-**⚡ Full Stack Engineer** chez Partoo *(déc 2022 - mai 2024)*
-- Applications Click & Collect avec Clean Architecture
-- Implémentation CQRS et principes DDD
-- Stack Vue.js + Node.js + GraphQL
+**⚡ Full Stack Engineer** at Partoo *(Dec 2022 - May 2024)*
+- Click & Collect applications with Clean Architecture
+- CQRS implementation and DDD principles
+- Vue.js + Node.js + GraphQL stack
 
 ---
 
 <div align="center">
 
-### 🤝 Ouvert aux collaborations !
+### 🤝 Open to collaborations!
 
-*Intéressé par l'architecture logicielle, l'IA et les solutions durables*
+*Interested in software architecture, AI, and sustainable solutions*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-quentinpiot.com-blue?style=for-the-badge&logo=google-chrome)](https://quentinpiot.com)
 [![Email](https://img.shields.io/badge/Email-quentin.piot@protonmail.com-red?style=for-the-badge&logo=gmail)](mailto:quentin.piot@protonmail.com)
 
 </div>
-        
+```
