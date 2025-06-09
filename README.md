@@ -24,12 +24,12 @@
 
 ### 🥷 Technologies Maîtrisées
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,postgresql,mongodb,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,github,git,&perline=4" />
 </p>
 
 ### 📚 En Apprentissage
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,spring,rust,rabbitmq,redis,gcp,aws,docker,kubernetes,gitlab&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,rust,rabbitmq,redis,gcpb&perline=6" />
 </p>
 
 ---
@@ -107,7 +107,7 @@
 *Intéressé par l'architecture logicielle, l'IA et les solutions durables*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-quentinpiot.com-blue?style=for-the-badge&logo=google-chrome)](https://quentinpiot.com)
-[![Email](https://img.shields.io/badge/Email-hello@quentinpiot.com-red?style=for-the-badge&logo=gmail)](mailto:hello@quentinpiot.com)
+[![Email](https://img.shields.io/badge/Email-quentin.piot@protonmail.com-red?style=for-the-badge&logo=gmail)](mailto:quentin.piot@protonmail.com)
 
 </div>
         
