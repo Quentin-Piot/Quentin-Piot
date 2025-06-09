@@ -24,7 +24,7 @@
 
 ### 🥷 Technologies Maîtrisées
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,github,git,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,github,git,&perline=8" />
 </p>
 
 ### 📚 En Apprentissage
