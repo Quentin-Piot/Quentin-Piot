@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Quentin Piot
 
 **Full-Stack Developer** passionate about software architecture and sustainable solutions 🌱
@@ -107,4 +106,3 @@
 [![Email](https://img.shields.io/badge/Email-quentin.piot@protonmail.com-red?style=for-the-badge&logo=gmail)](mailto:quentin.piot@protonmail.com)
 
 </div>
-```
