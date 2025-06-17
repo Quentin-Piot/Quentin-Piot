@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quentin Piot
 
-**Full-Stack Developer** passionate about software architecture and cloud architecture
+**Full-Stack Developer** passionate about software architecture and cloud architecture 
 
 > *"I design robust, accessible, and maintainable web and mobile interfaces, with a constant focus on performance and technical clarity."*
 
