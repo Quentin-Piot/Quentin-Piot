@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-### 🩺 [High-Performance Trading Platform](https://github.com/Quentin-Piot/high-performance-trading-platform)  
+### 🏦 [High-Performance Trading Platform](https://github.com/Quentin-Piot/high-performance-trading-platform)  
 **AWS Cloud-native trading simulation**  
 - Backend FastAPI + PostgreSQL/DynamoDB  
 - Event-driven microservices (SQS)  
