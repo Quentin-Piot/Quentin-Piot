@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Quentin Piot
 
-**Full-Stack Developer** passionate about software architecture and cloud architecture 
+**Senior Full-Stack & Cloud Engineer** passionate about scalable systems and cloud-native architecture.  
 
-> *"I design robust, accessible, and maintainable web and mobile interfaces, with a constant focus on performance and technical clarity."*
+> *"I build high-performance, maintainable, and secure full-stack applications with a cloud-first approach."*
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 **Specialist** in React, TypeScript & System Architecture
-- ☁️ **AWS Certified Solutions Architect** (Associate)
-- 🤖 **Passionate about AI** and LLM integration
-- 🌍 **Based in Paris**, available for remote work
-- 💼 **Freelance** since May 2024
+- 🎯 **Specialist** in React, Vue.js, FastAPI, TypeScript & System Design  
+- ☁️ **AWS Solutions Architect Associate** (certification in progress)  
+- 🤖 **Passionate about AI** and LLM integrations  
+- 🌍 **Based in Paris**, available for remote or hybrid positions  
+- 💼 **Freelance & project experience** in full-stack, cloud-native apps, and DevOps  
 
 ---
 
@@ -20,44 +20,53 @@
 
 ### 🥷 Mastered Technologies
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nextjs,nodejs,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,github,git,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,fastapi,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,redis,rabbitmq,terraform,github,git&perline=8" />
 </p>
 
-### 📚 Learning
+### 📚 Learning / Exploring
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,rust,rabbitmq,redis,gcpb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,rust,gcp&perline=6" />
 </p>
 
 ---
 
 ## 🏆 Expertise
 
-- **🏗️ System Architecture** : DDD, CQRS, Event Sourcing, Clean Architecture
-- **☁️ Cloud & DevOps** : AWS, Docker, Kubernetes, Terraform, CI/CD
-- **🤖 AI & Innovation** : LLM Integration, OCR, Prompt Engineering
-- **📱 Mobile Development** : React Native, Expo
+- **🏗️ System Architecture**: DDD, CQRS, Event-Driven, Clean Architecture  
+- **☁️ Cloud & DevOps**: AWS (ECS, Fargate, Lambda, SQS, DynamoDB, RDS), Terraform, CI/CD, Docker, Kubernetes  
+- **🔒 Security & Observability**: OAuth2/JWT, CloudWatch, cost-optimized architectures  
+- **📊 Data & AI**: Pandas/NumPy, vectorized computation, OCR, LLM integration  
+- **📱 Frontend & Mobile**: Vue.js, React, Nuxt, Pinia, React Native  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩺 [BioPrisme](https://bioprisme.com)
-**Personalized analysis of biological reports with AI**
-- 🔒 HDS Hosting & data encryption
-- 🧠 OCR + Python for data extraction
-- 📊 Personalized educational PDF reports
+### 🩺 [High-Performance Trading Platform](https://github.com/Quentin-Piot/high-performance-trading-platform)  
+**AWS Cloud-native trading simulation**  
+- Backend FastAPI + PostgreSQL/DynamoDB  
+- Event-driven microservices (SQS)  
+- Frontend Vue.js + Pinia, OAuth2/JWT authentication  
+- CI/CD with GitHub Actions & Terraform IaC  
+- Cost-optimized EC2 t3.micro architecture  
 
-### 🌿 [EcoManager](https://github.com/Quentin-Piot/eco-manager)
-**Sustainable financial management**
-- 📱 React Native application with Expo
-- 💰 Account, transaction, and budget tracking
-- 🎨 Modern interface with TailwindCSS
+### 🩺 [BioPrisme](https://bioprisme.com)  
+**Personalized AI-based analysis of biological reports**  
+- OCR + Python extraction  
+- HDS Hosting & encrypted data storage  
+- PDF report generation with personalized recommendations  
 
-### 🦀 [Axum Real-World Template](https://github.com/Quentin-Piot/axum-diesel-real-world)
-**Modern Rust template for scalable backends**
-- ⚡ Axum Framework + Diesel ORM
-- 🏗️ Modular DDD architecture
-- 🔄 Automatic migrations & connection pool
+### 🌿 [EcoManager](https://github.com/Quentin-Piot/eco-manager)  
+**Sustainable financial management app**  
+- React Native + Expo  
+- Transaction & budget tracking  
+- TailwindCSS modern UI  
+
+### 🦀 [Axum Real-World Template](https://github.com/Quentin-Piot/axum-diesel-real-world)  
+**Rust backend template for scalable applications**  
+- Axum + Diesel ORM  
+- Modular DDD architecture  
+- Automatic migrations & connection pooling  
 
 ---
 
@@ -75,24 +84,23 @@
 
 ## 🌐 Links
 
-- 🌍 **Portfolio** : [quentinpiot.com](https://quentinpiot.com)
-- 📄 **Detailed Resume** : [Google Slides](https://docs.google.com/presentation/d/10c-vA0yhWPG4q_VT432VWWtALVcoaKK3KYEi2QvefxA/edit?usp=sharing)
-- 💼 **LinkedIn** : [Quentin Piot](https://linkedin.com/in/quentin-piot)
-- 📧 **Contact** : [hello@quentinpiot.com](mailto:hello@quentinpiot.com)
+- 🌍 **Portfolio** : [quentinpiot.com](https://quentinpiot.com)  
+- 💼 **LinkedIn** : [Quentin Piot](https://linkedin.com/in/quentin-piot)  
+- 📧 **Contact** : [quentin.piot@protonmail.com](mailto:quentin.piot@protonmail.com)  
 
 ---
 
 ## 💼 Recent Experience
 
-**🚀 Lead Freelance Developer** at MAGNETA S.A.S *(May - Nov 2024)*
-- Backend for connected watches
-- Secure B2B API with GraphQL
-- React administration console
+**🚀 Lead Freelance Developer** at MAGNETA S.A.S *(May - Nov 2024)*  
+- Backend for connected watches  
+- Secure B2B API with GraphQL  
+- React administration console  
 
-**⚡ Full Stack Engineer** at Partoo *(Dec 2022 - May 2024)*
-- Click & Collect applications with Clean Architecture
-- CQRS implementation and DDD principles
-- Vue.js + Node.js + GraphQL stack
+**⚡ Full Stack Engineer** at Partoo *(Dec 2022 - May 2024)*  
+- Click & Collect applications with Clean Architecture  
+- CQRS implementation and DDD principles  
+- Vue.js + Node.js + GraphQL stack  
 
 ---
 
@@ -100,9 +108,9 @@
 
 ### 🤝 Open to collaborations!
 
-*Interested in software architecture, AI, and sustainable solutions*
+*Interested in software architecture, cloud-native apps, and AI integration*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-quentinpiot.com-blue?style=for-the-badge&logo=google-chrome)](https://quentinpiot.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-quentinpiot.com-blue?style=for-the-badge&logo=google-chrome)](https://quentinpiot.com)  
 [![Email](https://img.shields.io/badge/Email-quentin.piot@protonmail.com-red?style=for-the-badge&logo=gmail)](mailto:quentin.piot@protonmail.com)
 
 </div>
