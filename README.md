@@ -1,8 +1,4 @@
-# 👋 Quentin Piot — Senior Full-Stack & Cloud Engineer
-
-**I design, ship, and operate cloud-native systems** with clean architecture, strong observability, and CI/CD discipline. My focus: **high-throughput backends**, **type-safe frontends**, and **cost-aware AWS infrastructure**.
-
-> “Make it correct, observable, and easy to evolve. Then make it faster.”
+# 👋 Quentin Piot — Senior Full-Stack & Cloud Engineer 
 
 ---
 
