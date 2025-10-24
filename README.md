@@ -1,76 +1,69 @@
-# 👋 Hi, I'm Quentin Piot
+# 👋 Quentin Piot — Senior Full-Stack & Cloud Engineer
 
-**Senior Full-Stack & Cloud Engineer** passionate about scalable systems and cloud-native architecture.  
+**I design, ship, and operate cloud-native systems** with clean architecture, strong observability, and CI/CD discipline. My focus: **high-throughput backends**, **type-safe frontends**, and **cost-aware AWS infrastructure**.
 
-> *"I build high-performance, maintainable, and secure full-stack applications with a cloud-first approach."*
-
----
-
-## 🚀 About Me
-
-- 🎯 **Specialist** in React, Vue.js, FastAPI, TypeScript & System Design  
-- ☁️ **AWS Solutions Architect Associate** (certification in progress)  
-- 🤖 **Passionate about AI** and LLM integrations  
-- 🌍 **Based in Paris**, available for remote or hybrid positions  
-- 💼 **Freelance & project experience** in full-stack, cloud-native apps, and DevOps  
+> “Make it correct, observable, and easy to evolve. Then make it faster.”
 
 ---
 
-## 🛠️ Tech Stack
+## TL;DR
 
-### 🥷 Mastered Technologies
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,fastapi,graphql,nestjs,aws,docker,kubernetes,postgresql,mongodb,redis,rabbitmq,terraform,github,git&perline=8" />
-</p>
-
-### 📚 Learning / Exploring
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,rust,gcp&perline=6" />
-</p>
+- **Backend:** FastAPI / Python • Node.js / TypeScript • Event-driven (SQS) • PostgreSQL/DynamoDB • Redis • CQRS/DDD
+- **Cloud/DevOps:** AWS (ECS Fargate, ALB, CloudFront, Cognito, S3, RDS, DynamoDB, SQS, CloudWatch) • Terraform • GitHub Actions • Docker • basic K8s
+- **Frontend:** Vue 3 + Pinia • React/Next.js • OAuth2/JWT/Cognito
+- **Practices:** CI/CD, trunk-based, automated testing, IaC, metrics & tracing, security by default
+- **Availability:** **January 2026** • Paris (remote/hybrid OK)
+- **Certifications:** Preparing **AWS Solutions Architect Associate** & **Terraform Associate** (in progress)
 
 ---
 
-## 🏆 Expertise
+## What I Ship
 
-- **🏗️ System Architecture**: DDD, CQRS, Event-Driven, Clean Architecture  
-- **☁️ Cloud & DevOps**: AWS (ECS, Fargate, Lambda, SQS, DynamoDB, RDS), Terraform, CI/CD, Docker, Kubernetes  
-- **🔒 Security & Observability**: OAuth2/JWT, CloudWatch, cost-optimized architectures  
-- **📊 Data & AI**: Pandas/NumPy, vectorized computation, OCR, LLM integration  
-- **📱 Frontend & Mobile**: Vue.js, React, Nuxt, Pinia, React Native  
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 [High-Performance Trading Platform](https://github.com/Quentin-Piot/high-performance-trading-platform)  
-**AWS Cloud-native trading simulation**  
-- Backend FastAPI + PostgreSQL/DynamoDB  
-- Event-driven microservices (SQS)  
-- Frontend Vue.js + Pinia, OAuth2/JWT authentication  
-- CI/CD with GitHub Actions & Terraform IaC  
-- Cost-optimized EC2 t3.micro architecture  
-
-### 🩺 [BioPrisme](https://bioprisme.com)  
-**Personalized AI-based analysis of biological reports**  
-- OCR + Python extraction  
-- HDS Hosting & encrypted data storage  
-- PDF report generation with personalized recommendations  
-
-### 🌿 [EcoManager](https://github.com/Quentin-Piot/eco-manager)  
-**Sustainable financial management app**  
-- React Native + Expo  
-- Transaction & budget tracking  
-- TailwindCSS modern UI  
-
-### 🦀 [Axum Real-World Template](https://github.com/Quentin-Piot/axum-diesel-real-world)  
-**Rust backend template for scalable applications**  
-- Axum + Diesel ORM  
-- Modular DDD architecture  
-- Automatic migrations & connection pooling  
+- **Production-ready backends** with clean boundaries (Hexagonal/DDD), idempotent handlers, retry/backoff, and dead-letter strategies.
+- **Observability first:** structured logs, metrics (p95 latency, error budgets), health checks, and actionable dashboards.
+- **CI/CD that protects quality:** build → test → scan → deploy gates, infra drift detection, preview environments.
+- **Security basics baked-in:** least privilege IAM, HTTPS everywhere at the edge, JWT/Cognito auth, secret rotation via GitHub OIDC + AWS.
 
 ---
 
-## 📊 GitHub Stats
+## Featured Project — HPTP (High-Performance Trading Platform)
+
+**Goal:** demonstrate end-to-end capability to build a **low-friction, cloud-native, full-stack trading simulation platform** suitable for a quant environment.
+
+**Repo:** https://github.com/Quentin-Piot/high-performance-trading-platform
+
+**Highlights**
+- **Backend:** FastAPI service with a Monte-Carlo simulation worker, vectorized with NumPy/Pandas; P&L, drawdown, Sharpe.
+- **Architecture:** AWS ECS Fargate (API + worker), ALB, S3 + CloudFront (SPA), RDS PostgreSQL, optional DynamoDB for event logs.
+- **Auth:** AWS Cognito with Google Sign-In; SPA talks to API via JWT (RS256), roles mapped via Cognito groups.
+- **Frontend:** Vue 3 + Pinia; WebSocket progress feed (live job progress and ETA).
+- **CI/CD:** GitHub Actions (build, type-check, tests, IaC plan/apply, invalidations); Terraform for all infra (OAI, OAC, cache policies).
+- **Observability:** CloudWatch metrics/alarms; structured JSON logs; health and readiness endpoints.
+- **Cost control:** small ECS services, S3/CloudFront caching strategy, lifecycle rules, reasonable defaults (no idle GPU waste).
+  
+---
+
+## Selected Architecture Patterns I Use
+
+- **Domain-centric design:** DDD aggregates, CQRS for read/write separation where it pays off.
+- **Event-driven workflows:** SQS with visibility timeouts, poison queues, and idempotency keys.
+- **Resilient HTTP:** retry with jitter, circuit breakers, timeouts; clear failure modes.
+- **Caching at the edge:** CloudFront cache policies & OAC; SPA routing with fallback; versioned assets.
+- **Zero-trust-ish defaults:** private subnets for compute, least-privilege IAM, no public RDS, WAF when exposed.
+
+---
+
+## Tech Stack (Core & Comfort)
+
+- **Backend:** Python (FastAPI), Node.js (NestJS/Express), GraphQL/REST, async IO, NumPy/Pandas
+- **Data/Infra:** PostgreSQL, DynamoDB, Redis, RabbitMQ/SQS
+- **Cloud/DevOps:** AWS (ECS, ALB, CloudFront, S3, Cognito, RDS, DynamoDB, SQS, CloudWatch), Terraform, GitHub Actions, Docker
+- **Frontend:** Vue 3 + Pinia, React/Next.js, TypeScript, Vite, Tailwind
+- **Testing/Quality:** pytest, vitest, tsc strict, ESLint/Prettier, schema validation (zod/pydantic)
+
+---
+
+## Github stats
 
 <div align="center">
 
@@ -82,35 +75,53 @@
 
 ---
 
-## 🌐 Links
+## Projects (Selection)
 
-- 🌍 **Portfolio** : [quentinpiot.com](https://quentinpiot.com)  
-- 💼 **LinkedIn** : [Quentin Piot](https://linkedin.com/in/quentin-piot)  
-- 📧 **Contact** : [quentin.piot@protonmail.com](mailto:quentin.piot@protonmail.com)  
+- **High-Performance Trading Platform (HPTP)** — *Cloud-native trading sim with live progress*  
+  https://github.com/Quentin-Piot/high-performance-trading-platform
 
----
+- **Axum Real-World Template (Rust)** — *Scalable backend template with Diesel, DDD structure*  
+  https://github.com/Quentin-Piot/axum-diesel-real-world
 
-## 💼 Recent Experience
+- **EcoManager (React Native)** — *Budget & transactions, mobile UX focus*  
+  https://github.com/Quentin-Piot/eco-manager
 
-**🚀 Lead Freelance Developer** at MAGNETA S.A.S *(May - Nov 2024)*  
-- Backend for connected watches  
-- Secure B2B API with GraphQL  
-- React administration console  
-
-**⚡ Full Stack Engineer** at Partoo *(Dec 2022 - May 2024)*  
-- Click & Collect applications with Clean Architecture  
-- CQRS implementation and DDD principles  
-- Vue.js + Node.js + GraphQL stack  
+- **BioPrisme (production site)** — *OCR + AI over medical PDFs, HDS hosting & encryption*  
+  https://bioprisme.com
 
 ---
 
-<div align="center">
+## Experience (Recent)
 
-### 🤝 Open to collaborations!
+**Lead Freelance Developer — MAGNETA S.A.S (2024)**  
+- Built IoT backend for connected devices; secure B2B API (GraphQL); React admin console.  
+- CI/CD, containerization, AWS deployment; monitoring & access control.
 
-*Interested in software architecture, cloud-native apps, and AI integration*
+**Full-Stack Engineer — Partoo (2022–2024)**  
+- Click & Collect backend with Clean Architecture; **CQRS/DDD** in a high-throughput environment.  
+- Vue/Nuxt + GraphQL frontend integration; async processing with RabbitMQ/Redis.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-quentinpiot.com-blue?style=for-the-badge&logo=google-chrome)](https://quentinpiot.com)  
-[![Email](https://img.shields.io/badge/Email-quentin.piot@protonmail.com-red?style=for-the-badge&logo=gmail)](mailto:quentin.piot@protonmail.com)
+---
 
-</div>
+## How I Work
+
+- **Code that explains itself:** clear boundaries, invariants, and ADRs for non-obvious decisions.
+- **Measure, then optimize:** profiling first, then vectorization/async/batch.  
+- **Automate ruthlessly:** repeatable environments via IaC, one-click deployments, reproducible jobs.  
+- **Documentation kept current:** runbooks, health checks, and diagrams in the repo.
+
+---
+
+## Quick Links
+
+- **HPTP**: https://github.com/Quentin-Piot/high-performance-trading-platform  
+- **Portfolio**: https://quentinpiot.com  
+- **LinkedIn**: https://linkedin.com/in/quentin-piot  
+- **Email**: qkpiot@gmail.com
+
+---
+
+### Notes for reviewers
+- Certifications are **in progress** (AWS SAA, Terraform Associate).  
+- Kubernetes knowledge is developing; ECS is currently my pragmatic default on AWS.
+
