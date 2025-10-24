@@ -115,9 +115,3 @@
 - **LinkedIn**: https://linkedin.com/in/quentin-piot  
 - **Email**: qkpiot@gmail.com
 
----
-
-### Notes for reviewers
-- Certifications are **in progress** (AWS SAA, Terraform Associate).  
-- Kubernetes knowledge is developing; ECS is currently my pragmatic default on AWS.
-
