@@ -1,4 +1,4 @@
-# 👋 Quentin Piot — Senior Full-Stack & Cloud Engineer 
+# Quentin Piot — Full-Stack & Cloud Engineer 
 
 ---
 
