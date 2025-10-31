@@ -2,7 +2,7 @@
 
 ---
 
-## TL;DR
+## Summary
 
 - **Backend:** FastAPI / Python • Node.js / TypeScript • Event-driven (SQS) • PostgreSQL/DynamoDB • Redis • CQRS/DDD
 - **Cloud/DevOps:** AWS (ECS Fargate, ALB, CloudFront, Cognito, S3, RDS, DynamoDB, SQS, CloudWatch) • Terraform • GitHub Actions • Docker • basic K8s
