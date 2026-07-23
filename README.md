@@ -41,3 +41,6 @@ Backend · Cloud · Developer tools · AI integrations
 ### Links
 
 [Website](https://quentinpiot.com) · [LinkedIn](https://linkedin.com/in/quentin-piot)
+
+
+[![Quentin-Piot's GitHub stats](https://github-stats-extended.vercel.app/api?username=Quentin-Piot)](https://github.com/stats-organization/github-stats-extended)
